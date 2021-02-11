@@ -1,6 +1,4 @@
 # Folium Mapping
-Project exploring rendering mapping data from UK cinemas
-
 ## Outline
 
 Explore interactive mapping techniques with Folium, Python and Dash.
