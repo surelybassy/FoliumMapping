@@ -12,7 +12,7 @@ Using Python and the Beautiful Soup library, the Data was scraped across multipl
 
 ## Mapping the Data
 
-The data collected was imported into Python and mapped using the Folium library.
+The data collected was imported into Python and mapped using the Folium library. The maps are then expxlored as HTML pages, that can then be used in various ways.
 
 Below are several examples of the different settings and options available.
 
