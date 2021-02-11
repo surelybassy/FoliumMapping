@@ -16,11 +16,21 @@ The data collected was imported into Python and mapped using the Folium library.
 
 Below are several examples of the different settings and options available.
 
+Interactive demos:
+
+[Simple Mapping Example.](https://surelybassy.github.io/FoliumMapping/HTML_Files/map_points.html "Simple Mapping Example")
+
+[Map with colour coded points.](https://surelybassy.github.io/FoliumMapping/HTML_Files/map_points_colours.html "Colour Coded Points")
+
+[Points with pop-ups](https://surelybassy.github.io/FoliumMapping/HTML_Files/map_points_popups.html "Points with pop-ups")
+
+[Maps with Clusters](https://surelybassy.github.io/FoliumMapping/HTML_Files/map_cluster.html "Maps with Clusters")
+
 Example 1: Simple plotting of cinema coordinates on the map. Settings: tiles='CartoDB dark_matter'
 
 ![Map 1](FoliumMap1.png?raw=true "Map Example 1")
 
-Example 2: Plotting of cinema coordinates, colour coded by avaiables in the dataset. Settings: tiles='Stamen Watercolor'
+Example 2: Plotting cinema coordinates, colour coded by variables in the dataset. Settings: tiles='Stamen Watercolor'
 
 ![Map 2](FoliumMap2.png?raw=true "Map Example 1")
 
