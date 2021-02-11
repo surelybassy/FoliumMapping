@@ -8,9 +8,13 @@ Explore interactive mapping techniques with Folium, Python and Dash.
 
 ## The Data
 
-Using Python and the Beautiful Soup library, the Data was scraped from 
+Using Python and the Beautiful Soup library, the Data was scraped across multiple page from https://film.list.co.uk/cinemas/ into a Pandas Dataframe and exported to a CSV file.
 
 ## Mapping the Data
+
+The data collected was imported into Python and mapped using the Folium library.
+
+Below are several examples of the different settings and options available.
 
 Example 1: Simple plotting of cinema coordinates on the map. Settings: tiles='CartoDB dark_matter'
 
