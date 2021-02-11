@@ -13,8 +13,13 @@ Using Puthon, the Data was scraped using the Beautiful Soup library
 ## Mapping the Data
 
 
-## Flask Server
+![Map 1](FoliumMap1.png?raw=true "Map Example 1")
+
+![Map 2](FoliumMap2.png?raw=true "Map Example 1")
+
+![Map 3](FoliumMap3.png?raw=true "Map Example 1")
+
+![Clustered Map](ClusterGif.gif?raw=true "Map Example 1")
 
 
-## Docker
 
